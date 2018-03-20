@@ -1,3 +1,3 @@
 <?php
-    echo "for nothing";
-?>
+    echo "for nothing is means nothing";
+?>  
